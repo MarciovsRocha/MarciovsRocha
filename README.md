@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   - Shell Script
   - UNIX
 - 📫 How to reach me: <a href="mailto:dev.marcio.rocha@gmail.com">Marcio Rocha</a>
-- - ⚡ Fun fact: LINUX Lover (btw, i use Arch)
+- ⚡ Fun fact: LINUX Lover (btw, i use Arch)
