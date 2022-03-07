@@ -21,9 +21,7 @@ Here are some ideas to get you started:
   - Python
   - Deep Learning
 - 🌱 I’m currently learning: 
-  -  Fullstack Web Development
-    -  Backend: Java
-    -  Frontend: Angular 13
+  -  Fullstack Web Development(Backend="Java", Frontend="Angular 13")
   -  Machine Learning
   -  Artificial Intelligence
   -  Big Data
