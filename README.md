@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   -  Machine Learning
   -  Artificial Intelligence
   -  Big Data
+  -  Golang 
 - 💬 Ask me about 
   - Java
   - SQL 
