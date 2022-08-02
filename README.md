@@ -19,18 +19,19 @@ Here are some ideas to get you started:
   - Delphi
   - Java
   - Python
-  - Deep Learning
+  - C#
 - 🌱 I’m currently learning: 
-  -  Fullstack Web Development`(Backend="Java", Frontend="Angular 13")`
-  -  Machine Learning
-  -  Artificial Intelligence
-  -  Big Data
-  -  Golang 
+  - Data Science
+  - Azure Foundations
+  - Docker/Containers
 - 💬 Ask me about 
   - Java
   - SQL 
   - Delphi
   - Shell Script
   - UNIX
+  - C#
+  - Big Data
+  - Machine Learning
 - 📫 How to reach me: <a href="mailto:dev.marcio.rocha@gmail.com">Marcio Rocha</a>
 - ⚡ Fun fact: LINUX Lover (btw, i use Arch)
