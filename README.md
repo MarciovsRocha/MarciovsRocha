@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   - Docker/Containers
 - 💬 Ask me about 
   - Java
+  - Python
   - SQL (SQL Server / Sybase)
   - Delphi
   - Shell Script
