@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - Shell Scripts 
   - Delphi
-  - Java
   - Python
   - C#
 - 🌱 I’m currently learning: 
@@ -25,7 +24,6 @@ Here are some ideas to get you started:
   - Azure Foundations
   - Docker/Containers
 - 💬 Ask me about 
-  - Java
   - Python
   - SQL (SQL Server / Sybase)
   - Delphi
