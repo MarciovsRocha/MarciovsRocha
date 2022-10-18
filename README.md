@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
+  - Python
+  - C#
   - Shell Scripts 
   - Delphi
-  - Python
-  - C#
 - 🌱 I’m currently learning: 
   - Data Science
-  - Azure Foundations
-  - Docker/Containers
+  - Microsoft Azure 
 - 💬 Ask me about 
+  - C#
   - Python
   - SQL (SQL Server / Sybase)
-  - Delphi
+  - Machine Learning
   - Shell Script
   - UNIX
-  - C#
   - Big Data
-  - Machine Learning
+  - Data Science
+  - Delphi
 - 📫 How to reach me: <a href="mailto:dev.marcio.rocha@gmail.com">Marcio Rocha</a>
 - ⚡ Fun fact: LINUX Lover (btw, i use Arch)
