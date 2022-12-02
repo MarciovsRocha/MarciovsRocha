@@ -34,3 +34,6 @@ Here are some ideas to get you started:
   - Delphi
 - 📫 How to reach me: <a href="mailto:dev.marcio.rocha@gmail.com">Marcio Rocha</a>
 - ⚡ Fun fact: LINUX Lover (btw, i use Arch)
+
+![marciovsrocha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marciovsrocha&theme=react&hide_border=true)
+
