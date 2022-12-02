@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:dev.marcio.rocha@gmail.com">Marcio Rocha</a>
 - ⚡ Fun fact: LINUX Lover (btw, i use Arch)
 
-![marciovsrocha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marciovsrocha&theme=react&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marciovsrocha&theme=github-dark&hide_border=true&border_radius=20&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
