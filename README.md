@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   - C#
   - Shell Scripts 
   - Delphi
-- 🌱 I’m currently learning: 
   - Data Science
+  - Machine Learning
+- 🌱 I’m currently learning: 
   - Microsoft Azure 
 - 💬 Ask me about 
   - C#
