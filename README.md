@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   - Data Science
   - Machine Learning
 - 🌱 I’m currently learning: 
-  - React / TypeScipt 
+  - React / TypeScipt
+  - Bootstrap
 - 💬 Ask me about 
   - C#
   - Python
