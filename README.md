@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - Data Science
   - Machine Learning
 - 🌱 I’m currently learning: 
-  - Microsoft Azure 
+  - React / TypeScipt 
 - 💬 Ask me about 
   - C#
   - Python
