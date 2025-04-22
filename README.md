@@ -19,24 +19,18 @@ Here are some ideas to get you started:
   - C#
   - Shell Scripts 
   - Delphi
-  - Data Science
-  - Machine Learning
-- 🌱 I’m currently learning: 
-  - React / TypeScipt
-  - Bootstrap
+  - JavaScript
+  - Angular
 - 💬 Ask me about 
   - C#
   - Python
-  - SQL (SQL Server / Sybase)
+  - SQL (SQL Server / Sybase / PostgreSQL)
   - Machine Learning
   - Shell Script
   - UNIX
   - Big Data
   - Data Science
   - Delphi
+  - JavaScript
 - 📫 How to reach me: <a href="mailto:dev.marcio.rocha@gmail.com">Marcio Rocha</a>
 - ⚡ Fun fact: LINUX Lover (btw, i use Arch)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marciovsrocha&theme=github-dark&hide_border=true&border_radius=20&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
