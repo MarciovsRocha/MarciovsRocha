@@ -31,5 +31,14 @@ Here are some ideas to get you started:
   - Big Data
   - Delphi
   - JavaScript
+- 🌐 Some usefull API's
+  - Stripe API 
+  - OpenPIX Woovi - API
+- Distributed Software
+  - gRPC
+  - REST
+  - RabbitMQ
+  - Ably Realtime
+
 - 📫 How to reach me: <a href="mailto:dev.marcio.rocha@gmail.com">Marcio Rocha</a>
 - ⚡ Fun fact: LINUX Lover (btw, i use Arch)
