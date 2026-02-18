@@ -20,16 +20,15 @@ Here are some ideas to get you started:
   - Shell Scripts 
   - Delphi
   - JavaScript
-  - Angular
+  - React 
+  - TailwindCSS (sometimes with DaisyUI)
 - 💬 Ask me about 
   - C#
   - Python
   - SQL (SQL Server / Sybase / PostgreSQL)
-  - Machine Learning
   - Shell Script
   - UNIX
   - Big Data
-  - Data Science
   - Delphi
   - JavaScript
 - 📫 How to reach me: <a href="mailto:dev.marcio.rocha@gmail.com">Marcio Rocha</a>
